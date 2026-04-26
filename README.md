@@ -6,12 +6,6 @@ Built for the **Catalyst Hackathon** by deccan.ai.
 
 ---
 
-## Demo
-
-> Record your demo video and add the link here.
-
----
-
 ## Features
 
 - 📄 **PDF & text input** — accepts job descriptions and resumes in `.pdf` or `.txt` format
