@@ -42,13 +42,6 @@ pip install -r requirements.txt
 cp .env.example .env
 # Edit .env and set GEMINI_API_KEY=your_key_here
 
-### Mock Mode (For Demos)
-
-If you don't have a Gemini API key or want to run a quick demo without hitting rate limits, you can enable **Mock Mode**:
-
-1. Open your `.env` file.
-2. Set `MOCK_LLM=true`.
-
 When active, the agent uses predefined responses to simulate the full assessment workflow.
 ```
 
@@ -195,15 +188,6 @@ See [`docs/methodology.md`](docs/methodology.md) for:
 - Adjacent-skill definition and prioritisation
 - Learning time estimates
 
----
-
-## Repository Access
-
-Please grant access to **hackathon@deccan.ai** before submitting:
-
-```bash
-# GitHub: Settings → Collaborators → Add hackathon@deccan.ai
-```
 
 ---
 
