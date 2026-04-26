@@ -1,0 +1,16 @@
+Position: Senior Backend Engineer
+
+Required Skills:
+- Python (5+ years)
+- FastAPI or Django (3+ years)
+- PostgreSQL (3+ years)
+- Docker and Kubernetes (2+ years)
+- AWS services (S3, Lambda, RDS)
+- RESTful API design
+- Git and CI/CD
+
+Preferred Skills:
+- GraphQL
+- Redis
+- Microservices architecture
+- Test-driven development

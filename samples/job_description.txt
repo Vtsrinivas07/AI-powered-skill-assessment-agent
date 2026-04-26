@@ -1,0 +1,29 @@
+Senior Backend Engineer
+
+We are looking for a Senior Backend Engineer to join our growing platform team.
+
+Required Skills:
+- Python (5+ years): Building production-grade services and APIs
+- FastAPI or Django (3+ years): RESTful API design and implementation
+- PostgreSQL (3+ years): Schema design, query optimisation, indexing
+- Docker (2+ years): Containerisation and multi-stage builds
+- Kubernetes (2+ years): Deploying and managing containerised workloads
+- AWS services (2+ years): S3, Lambda, RDS, CloudWatch
+- Git and CI/CD: Version control, automated testing pipelines
+
+Preferred Skills:
+- GraphQL: Schema design and resolver implementation
+- Redis: Caching strategies and pub/sub patterns
+- Microservices architecture: Service decomposition and inter-service communication
+- Test-driven development: Unit, integration, and end-to-end testing
+
+Responsibilities:
+- Design and implement scalable backend services
+- Collaborate with frontend and data teams
+- Participate in code reviews and architecture discussions
+- Mentor junior engineers
+
+Requirements:
+- Bachelor's degree in Computer Science or equivalent experience
+- Strong problem-solving and communication skills
+- Experience working in an Agile/Scrum environment

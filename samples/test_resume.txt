@@ -1,0 +1,12 @@
+John Doe
+Software Engineer
+
+Experience:
+- 4 years Python development
+- 2 years Django experience
+- Familiar with PostgreSQL
+- Basic Docker knowledge
+- Used Git for version control
+
+Skills:
+Python, Django, PostgreSQL, Docker, Git, JavaScript, React
